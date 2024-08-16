@@ -42,11 +42,6 @@ This project develops an optimized fuel replenishment strategy for a fleet of co
 - Matplotlib
 - Scikit-learn
 
-## Usage
-
-[Instructions for running the simulation and analysis]
-
-
 ## Acknowledgments
 
 Special thanks to the Institute for Systems Studies and Analyses, Defence R&D Organisation, for supporting this research.
