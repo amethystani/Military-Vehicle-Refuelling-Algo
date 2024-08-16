@@ -1,0 +1,9 @@
+- Most fuel-efficient vehicle: 4
+- Least fuel-efficient vehicle: 2
+- Busiest refueling spot: (np.float64(22.666666666666668), np.float64(19.0)) with 60 refuels
+- No state transitions detected or insufficient data
+- Peak activity hour: 0
+- No stranded vehicles detected
+- Most efficient refuel vehicle: 1 with 1318 refuels
+- Vehicle with most complex path: 4
+- Correlation between fuel level and distance from hub: -0.11
